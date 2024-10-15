@@ -1,7 +1,7 @@
 # Project Title
 
 ## Table of Contents
-- [Topic 1](#topic-1)
+- [Installation](#topic-1)
 - [Topic 2](#topic-2)
 - [Topic 3](#topic-3)
 - [Table](#table)
@@ -9,8 +9,8 @@
 - [Topic 6](#topic-6)
 - [Links](#links)
 
-## Topic 1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ullamcorper, justo nec facilisis dignissim, magna eros tristique libero, et suscipit arcu eros vel turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis ultricies est. Sed lobortis, odio sit amet interdum fringilla, felis mauris vehicula velit, sit amet condimentum nisl elit ac elit. Duis ac ligula ut dolor efficitur mollis. Nulla viverra massa eget quam tincidunt, et accumsan odio convallis. Integer luctus, orci in varius ultrices, justo nunc efficitur libero, vitae cursus neque lectus non elit.
+## Installation 
+Cli9ck on install. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ullamcorper, justo nec facilisis dignissim, magna eros tristique libero, et suscipit arcu eros vel turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis ultricies est. Sed lobortis, odio sit amet interdum fringilla, felis mauris vehicula velit, sit amet condimentum nisl elit ac elit. Duis ac ligula ut dolor efficitur mollis. Nulla viverra massa eget quam tincidunt, et accumsan odio convallis. Integer luctus, orci in varius ultrices, justo nunc efficitur libero, vitae cursus neque lectus non elit.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend vitae orci sed feugiat. Nam ut lorem sit amet felis luctus interdum. Quisque dapibus sapien non lorem sodales cursus. Curabitur suscipit ipsum ac velit suscipit, a elementum nulla aliquet. Curabitur scelerisque feugiat ipsum, vel molestie risus vestibulum ac. Nulla at libero eget dolor ultricies suscipit. Curabitur a vehicula purus.
 
